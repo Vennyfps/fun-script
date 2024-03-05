@@ -1,1 +1,4 @@
+This thing is just a science experiment to test out how codes in python and batch can work together.
+
+DISCLAIMER: DO NOT USE ON YOUR FRIENDS BECAUSE IT CAN KILL THEIR PC IF SOMETHING GOES WRONG.
 
