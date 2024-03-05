@@ -1,5 +1,10 @@
 This thing is just a science experiment to test out how codes in python and batch can work together.
 
 DISCLAIMER: DO NOT USE ON YOUR FRIENDS BECAUSE IT CAN KILL THEIR PC IF SOMETHING GOES WRONG.
+
 USE THIS CODE ONLY TO LEARN FROM IT !!!!!!!
+
+Also, there is pythonxd.py and pythonxd.zip 
+In zip there is ready 2 use .exe if u want to test my script( dont do it fr)
+And .py is just a python file that u can learn from or copy certain stuff
 
